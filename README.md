@@ -1,7 +1,5 @@
 # Blurry-Images-and-Noisy-Events-Dataset
 
-# README for [Dataset Name]
-
 ## Overview
 This dataset contains [brief description of data], collected from [source or method of collection]. The data is provided in [format or file type], and includes [list of columns or fields included in dataset].
 
